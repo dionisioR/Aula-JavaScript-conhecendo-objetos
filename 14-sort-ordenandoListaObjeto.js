@@ -13,5 +13,3 @@ function ordena(lista, propriedade) {
 
 const listaOrdenada = ordena(estudantes, "nome");
 console.log(listaOrdenada);
-
-https://www.youtube.com/watch?v=DVlNvnjRWn4&ab_channel=SilvaneiMartins
